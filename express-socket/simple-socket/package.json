@@ -1,6 +1,6 @@
 {
   "name": "simple-socket",
-  "description": "Foo",
+  "description": "Doof",
   "scripts": {
     "start": "node app.js"
   },
