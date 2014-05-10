@@ -13,6 +13,7 @@ fs.readFile('log.txt', function(err, logData) {
 			results[letter] = 0;
 		}
 		results[letter] += parseInt(count);
+		
 	});
 	console.log(results);
 });
