@@ -1,0 +1,20 @@
+{
+    "name": "Weak Chat",
+    "version": "0.0.1",
+    "description": "Multi-user chat",
+    "author": "Tim Welch",    
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "engines": {
+        "node": "0.10.x"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/twelch/node-foo.git"
+    },
+    "main": "index.js"
+}
+}
